@@ -90,12 +90,3 @@ html =>
 js&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;selectMultiple: []
 <br/>
 <br/>
-
-
-
-<style>
-.code.html {
-  background-color:f8f8fa
-  border-radius:5px
-}
-</style>
